@@ -1,7 +1,8 @@
 
 当我们点击后台的分组管理 编辑按钮时 id存在sql注入漏洞
-
 sql injection vulnerability exists when we click the group management Edit button in the background
+
+![image](https://github.com/user-attachments/assets/160d2142-126d-4ddf-90ea-c408bfa5b2f2)
 
 ![image](https://github.com/user-attachments/assets/a18dfc22-5c2e-4ced-b136-b857f9304f9b)
 
